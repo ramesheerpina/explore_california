@@ -1,0 +1,7 @@
+tempfile.txt
+
+tempfile2.txt
+.Ds_store
+*.zip
+*.gz
+
